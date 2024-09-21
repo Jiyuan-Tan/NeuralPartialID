@@ -1,0 +1,13 @@
+lightning_logs/
+=*
+__pycache__/
+.ipynb_checkpoints/
+*/checkpoints/
+*/checkpoint/
+*.err
+*.out
+*.slrm
+*/wandb/
+run_train.sh
+notebooks/
+experiments/results/
